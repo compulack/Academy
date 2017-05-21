@@ -1,5 +1,4 @@
 if (typeof (LikeBtn) == "undefined" || !LikeBtn) {
-    (document);
     var LikeBtn = function (window_obj) {
         var obj = {};
         obj.locales = ["en", "ru", "af", "ar", "hy", "bn", "bg", "ca", "zh_CN", "cs", "nl", "fa", "fi", "fr", "da", "de", "el", "he", "hu", "id", "it", "ja", "kk", "ko", "lt", "ne", "no", "pl", "pt", "pt_BR", "ro", "es", "sv", "th", "tr", "uk", "vi"];
