@@ -3,7 +3,7 @@ if (typeof (LikeBtn) == "undefined" || !LikeBtn) {
         var a = b.createElement("link");
         a.type = "text/css";
         a.rel = "stylesheet";
-        a.href = "//w.likebtn.com/css/w/widget.css?v=36";
+        a.href = "//cdn.rawgit.com/compulack/Academy/264f8e92/academy/css/likebtn.css";
         (b.getElementsByTagName("head")[0] || b.getElementsByTagName("body")[0])
         .appendChild(a)
     })(document);
